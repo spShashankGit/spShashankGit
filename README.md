@@ -15,7 +15,3 @@
 <img width="90" alt="mckinsey-org-forward-program-shashank-pandey-600x600-solutions-architect-bmw-open" src="https://github.com/user-attachments/assets/603ba9e0-7c57-4d65-943c-7f3a2fc7f11e" />
 <img width="80" alt="Databrick Badge - AI Agent Fundamentals - Shashank Pandey" src="https://github.com/user-attachments/assets/4467e03c-4ab3-4da5-bdc5-83b1b70847df" />
 </p>
-<!-- Profile Views -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spShashankGit&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
